@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2728c57d-97f9-4f17-af3c-04d2ffb90638" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CallmeMarket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callmeMarket/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="2728c57d-97f9-4f17-af3c-04d2ffb90638" name="Changes" comment="Criando o Projeto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callmeMarket/callmeMarket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/callmeMarket/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2wmY7BhWGDFct2Q23F9ShNMUaJw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,6 +43,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,11 +69,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746648047070</updated>
-      <workItem from="1746648048225" duration="3568000" />
+      <workItem from="1746648048225" duration="3745000" />
+      <workItem from="1747245623873" duration="6348000" />
     </task>
+    <task id="LOCAL-00001" summary="Criando o Projeto">
+      <option name="closed" value="true" />
+      <created>1746656012348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746656012350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando o Projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando o Projeto" />
   </component>
 </project>
