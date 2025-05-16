@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2728c57d-97f9-4f17-af3c-04d2ffb90638" name="Changes" comment="Ajeitando o Front-end">
-      <change afterPath="$PROJECT_DIR$/callmeMarket/myapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callmeMarket/myapp/static/myapp/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/register.html" afterDir="false" />
+    <list default="true" id="2728c57d-97f9-4f17-af3c-04d2ffb90638" name="Changes" comment="Criando register/login/profile">
+      <change afterPath="$PROJECT_DIR$/callmeMarket/api_rest/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callmeMarket/api_rest/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callmeMarket/callmeMarket/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/callmeMarket/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callmeMarket/callmeMarket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/callmeMarket/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/callmeMarket/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/myapp/templates/myapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/callmeMarket/myapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/myapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/callmeMarket/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/callmeMarket/myapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +33,12 @@
     &quot;assignee&quot;: &quot;Anthonygoc&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Anthonygoc/CallMe-Market.git",
-    "accountId": "1a97634f-5c68-4583-a6db-8da1e8a176c6"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Anthonygoc/CallMe-Market.git&quot;,
+    &quot;accountId&quot;: &quot;1a97634f-5c68-4583-a6db-8da1e8a176c6&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -93,7 +89,9 @@
       <updated>1746648047070</updated>
       <workItem from="1746648048225" duration="3745000" />
       <workItem from="1747245623873" duration="12210000" />
-      <workItem from="1747271219056" duration="4088000" />
+      <workItem from="1747271219056" duration="5936000" />
+      <workItem from="1747332269071" duration="5579000" />
+      <workItem from="1747358231471" duration="3374000" />
     </task>
     <task id="LOCAL-00001" summary="Criando o Projeto">
       <option name="closed" value="true" />
@@ -111,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747255256765</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criando register/login/profile">
+      <option name="closed" value="true" />
+      <created>1747277494432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747277494432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando o Projeto" />
     <MESSAGE value="Ajeitando o Front-end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajeitando o Front-end" />
+    <MESSAGE value="Criando register/login/profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando register/login/profile" />
   </component>
 </project>
